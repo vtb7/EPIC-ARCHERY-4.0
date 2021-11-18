@@ -1,1 +1,1 @@
-# EPIC-ARCHERY-4.0
+# project-c23-template
